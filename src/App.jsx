@@ -315,9 +315,9 @@ export default function App() {
       <section id="stats" className="py-20 border-y border-red-600/20 bg-red-950/5">
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            <StatCard icon={Twitter} label="Neural_Net" value="45K" />
-            <StatCard icon={Twitch} label="Live_Feed" value="120K" />
-            <StatCard icon={Youtube} label="Archives" value="200K" />
+            <StatCard icon={Twitter} label="Neural_Net" value="68" />
+            <StatCard icon={Twitch} label="Live_Feed" value="151" />
+            <StatCard icon={Youtube} label="Archives" value="437" />
             <StatCard icon={Shield} label="Guard_Rank" value="S+" />
           </div>
         </div>
