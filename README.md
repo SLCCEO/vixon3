@@ -17,7 +17,7 @@ By accessing this project, you agree to the following legally binding terms:
 Jeremiah_YT retains all ownership and copyright of Vixon/Vexon SYS. This includes, but is not limited to, all source code, assets, documentation, and branding.
 
 2. Absolute Prohibition of Use
-Any use of the code within this project—including but not limited to copying, forking, modifying, distributing, or incorporating it into other projects—is strictly prohibited. Any unauthorized use is considered a direct violation of copyright law and will be treated as copyright infringement.
+Any use of the code within this project including but not limited to copying, forking, modifying, distributing, or incorporating it into other projects is strictly prohibited. Any unauthorized use is considered a direct violation of copyright law and will be treated as copyright infringement.
 
 3. Liability
 Vixon/Vexon SYS is provided for demonstration purposes only. Jeremiah_YT is not liable for any damages or issues arising from the viewing or unauthorized use of this software.
