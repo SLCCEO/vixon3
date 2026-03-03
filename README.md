@@ -1,40 +1,38 @@
 Vixon / Vexon SYS
-
 Created by: Jeremiah_YT
+
 Copyright: © 2026 Jeremiah_YT. All rights reserved.
 
 This project is a React + TypeScript + Vite template providing a minimal setup for building web applications. It includes HMR (Hot Module Replacement) and ESLint rules for clean, maintainable code.
 
-While this template uses React, Vite supports many popular JavaScript frameworks. See the Vite documentation
- for all supported frameworks.
-
 Live Example
+Check out the Vixon/Vexon SYS demo:
 
-Check out a live demo of Vixon/Vexon SYS:
-https://vite-react-example.vercel.app
+https://vixon3.vercel.app
 
 Terms of Service (TOS)
+By accessing this project, you agree to the following legally binding terms:
 
-By using this project or any derivative works of Vixon/Vexon SYS, you agree to the following terms:
+1. Ownership & Copyright
+Jeremiah_YT retains all ownership and copyright of Vixon/Vexon SYS. This includes, but is not limited to, all source code, assets, documentation, and branding.
 
-Ownership & Copyright
-Jeremiah_YT retains all ownership and copyright of Vixon/Vexon SYS, including all code, assets, and branding.
+2. Absolute Prohibition of Use
+Any use of the code within this project—including but not limited to copying, forking, modifying, distributing, or incorporating it into other projects—is strictly prohibited. Any unauthorized use is considered a direct violation of copyright law and will be treated as copyright infringement.
 
-Usage
-You may view and use this project as-is for personal or educational purposes only, but you may not modify, distribute, sell, or claim ownership of Vixon/Vexon SYS in any way.
+3. Liability
+Vixon/Vexon SYS is provided for demonstration purposes only. Jeremiah_YT is not liable for any damages or issues arising from the viewing or unauthorized use of this software.
 
-Liability
-Vixon/Vexon SYS is provided "as is" without warranty of any kind. Jeremiah_YT is not liable for any damages or issues arising from the use of this software.
+4. Prohibited Actions
 
-Prohibited Actions
+No Modification: You may not modify, fork, or alter this project.
 
-Do not modify, fork, or alter this project in any way.
+No Distribution: You may not share or redistribute the source code in any format.
 
-Do not use this software to violate laws or regulations.
+No Commercial Use: You may not use any part of this project for commercial gain.
 
-Do not attempt to bypass copyright or claim authorship.
+No Attribution Theft: Do not attempt to bypass copyright or claim authorship.
 
-AI Disclaimer
-Jeremiah_YT holds no responsibility regarding the use of Google AI or any related AI services that interact with this project. Any use, outcomes, or consequences from AI tools are the sole responsibility of the user.
+5. AI Disclaimer
+Jeremiah_YT holds no responsibility regarding the use of Google AI or any related AI services that interact with this project. Any outcomes or consequences from AI tools are the sole responsibility of the user.
 
-For inquiries regarding licensing, commercial use, or collaboration, contact Jeremiah_YT directly.
+Notice: For inquiries regarding licensing, commercial permissions, or collaboration, you must contact Jeremiah_YT directly. Unauthorized use will be met with appropriate legal action.
